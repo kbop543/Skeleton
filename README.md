@@ -10,4 +10,4 @@ Skeleton node js app
 
 1. Run `npm install` in a terminal
 2. Run `npm start`
-3. Go to http://localhost:3000/
+3. Go to http://localhost:3000/ in your browser and you should see "Butterfly"
